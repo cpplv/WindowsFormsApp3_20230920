@@ -116,7 +116,7 @@
             this.checkBox3.Name = "checkBox3";
             this.checkBox3.Size = new System.Drawing.Size(80, 17);
             this.checkBox3.TabIndex = 8;
-            this.checkBox3.Text = "12345";
+            this.checkBox3.Text = "abc12345";
             this.checkBox3.UseVisualStyleBackColor = true;
             // 
             // Form1
